@@ -1,5 +1,5 @@
 # Athlete Load Monitoring & Injury Risk Prediction
-###mSports Performance Analytics | XGBoost | SHAP | K-Means
+### Sports Performance Analytics | XGBoost | SHAP | K-Means
 
 ---
 
