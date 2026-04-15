@@ -32,7 +32,7 @@ actionable output — flag any athlete exceeding 1.5 for immediate load
 reduction. The model serves as a supporting signal to prompt coaching 
 review, not a standalone decision maker.
 
-📊 **[View Full Deliverable (PDF)](Athlete_Load_Injury_Risk_Deliverable.pdf)**
+**[View Full Deliverable (PDF)](Athlete_Load_Injury_Risk_Deliverable.pdf)**
 
 ---
 
